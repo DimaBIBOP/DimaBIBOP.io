@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Кроссы - ШКРЭК</title>
-    <h1>
-        Кроссы — ШКРЭК.
-    </h1>
-</head>
-<body>
-    
-    <img src="https://i.ibb.co/ZNqZ8KW/Crocs-Classic-Clog-Dream-Works-Shrek-Product-1.webp" width="370">
-    <h2>Shkrek Classic Clog Crocs</h2>
-</body>
-</html>
+# Кроксы - ШРЭК
+!.[crocs-shrack](https://i.ibb.co/ZNqZ8KW/Crocs-Classic-Clog-Dream-Works-Shrek-Product-1.webp)
+Shkrek Classic Clog Crocs
